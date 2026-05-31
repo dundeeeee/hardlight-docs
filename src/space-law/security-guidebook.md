@@ -77,7 +77,7 @@ Common terms used in Security operations and Space Law.
 | **Perma** | Short for *Permanent Confinement* — indefinite brig detention reserved for capital crimes through lawful sentencing/placement. Perma prisoners retain the right to appeal to Colonial Command. |
 | **Processing** | The intake procedure for a newly arrested individual: search, charge confirmation, sentence calculation, and timer set. Overseen by the Warden. |
 | **Stun** | Non-lethal incapacitation using a stun baton, taser, or equivalent. The preferred method of subduing a resisting suspect in most situations. |
-| **C1** | Class 1 Contraband — Minor prohibited items. Typically handled with confiscation and a fine. |
+| **C1** | Class 1 Contraband — Minor dangerous items. Not a criminal charge; but not permitted in the brig.|
 | **C2** | Class 2 Contraband — Restricted equipment that may be legally possessed with a valid C2 Permit. Without a permit, possession is chargeable under [206 — Possession, Contraband Equipment](crimes-and-punishments.md#206). |
 | **C3** | Class 3 Contraband — Dangerous or prohibited weapons and materials. Possession by non-Security personnel is chargeable under [306 — Possession, Illegal Inherently Dangerous Equipment](crimes-and-punishments.md#306) unless explicitly authorized by applicable alert/command policy. Security personnel may carry/deploy C3 while acting in lawful security duties (see [Security Authority](security-authority.md#weapons-and-contraband-authority)). |
 | **CDET** | *Contraband Denying Energy Turret* — A statically placed automatic weapon that fires on any individual detected carrying C3 contraband. See [CDET Policy](#cdet--contraband-denying-energy-turrets) below. |
