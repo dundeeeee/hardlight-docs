@@ -70,6 +70,7 @@ The esclation lader does not require staff to accomplish each step before going 
 
 Uncooperation or untruthfulness from players during an administrative investigation is an acceptable cause to increase punishment severity. 
 ```
+
 | Stage | Action | Severity Guidance | Expires In (Typical) | Use When |
 |:------|:-------|:------------------|:---------------------|:---------|
 | 1 | Coaching / clarification | Lowest | N/A | First-time, low-impact confusion; clear correction path exists |
