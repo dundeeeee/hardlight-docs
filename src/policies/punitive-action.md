@@ -66,7 +66,7 @@ Watchlist is for coordinated awareness, not pre-judgment.
 Use this as the single escalation ladder from least severe to most severe.
 
 ```admonish info
-The esclation lader does not require staff to accomplish each step before going to the next one. Events which have serious impact on the gameplay of other players, the round's integrity, or general spirit and expectations of the community may be esclated to a "rung" that is effective in setting a clear expectation. 
+The esclation ladder does not require staff to accomplish each step before going to the next one. Events which have serious impact on the gameplay of other players, the round's integrity, or general spirit and expectations of the community may be esclated to a "rung" that is effective in setting a clear expectation. 
 
 Uncooperation or untruthfulness from players during an administrative investigation is an acceptable cause to increase punishment severity. 
 ```
