@@ -117,10 +117,9 @@ Additional observable factors — flight from the officer, continued movement to
 ### Arrest Procedure
 
 1. Halt the citizen using a whistle or hailer to alert them that Security will be speaking with them. If the individual does not halt, Security is permitted to use non-lethal means to subdue them.
-2. Produce the arrest warrant (if on Green Alert) and verbally announce that the individual is being detained. The crime they are being detained for **must be announced**.
-3. If the individual is armed, request that they remove and place all equipment on the ground. Failure to comply permits the officer to use non-lethal force. If the individual is heavily armed, follow [Security Authority](security-authority.md#deadly-force).
-4. Order the individual away from their equipment and to lie on the ground or face a wall. The officer may then approach to cuff them.
-5. Collect the detainee's equipment and transport it with them to Security, handing it to the Warden for processing.
+2. Produce the arrest warrant (if on Green Alert) and verbally announce that the individual is being detained. 
+3. Approach to gain control of the individual, by first requesting their compliance to handcuffing. If the individual refuses to comply, non-lethal force may be used. If the individual is heavily armed, follow [Security Authority](security-authority.md#deadly-force).
+4. Collect the individual's equipment and transport it with them to Security. Assist the Warden with processing until dismissed.
 
 ```admonish note
 If the detainee becomes belligerent, wields a long arm, draws a sidearm, or attempts to flee, the arresting officer may employ non-lethal or lethal force under [Security Authority](security-authority.md#deadly-force).
