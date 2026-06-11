@@ -15,6 +15,7 @@
 ---
 - [Department Policies](departments.md)
     - [Command](departments/commmand.md)
+        - [Captain](departments/captain.md) 
     - [Cargo](departments/cargo.md)
     - [Science](departments/science.md)
     - [Service](departments/service.md)
