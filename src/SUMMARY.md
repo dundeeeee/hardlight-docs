@@ -7,6 +7,7 @@
 
 - [Server Rules](rules/server-rules.md)
 	- [Escalation Policy](space-law/escalation.md)
+	- [Antag Policy](rules/antagpolicy.md)
 - [Conduct & Expectations](rules/conduct.md)
 
 ---
@@ -39,9 +40,9 @@
     - [Security Policies & Guidebook](space-law/security-guidebook.md)
     - [Prisoner Treatment](space-law/prisoner-treatment.md)
     - [Alert Statuses](space-law/alert-statuses.md)
-    - [Space Law](space-law/crimes-and-punishments.md)
-      - [Security Authority](space-law/security-authority.md)
-      - [Legal Standards](space-law/legal-standards.md)
+- [Space Law](space-law/crimes-and-punishments.md)
+   - [Security Authority](space-law/security-authority.md)
+   - [Legal Standards](space-law/legal-standards.md)
 ---
 
 # ADMINISTRATION
