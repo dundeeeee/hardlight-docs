@@ -4,7 +4,7 @@
 
 ---
 # SERVER RULES
-
+---
 - [Server Rules](rules/server-rules.md)
 	- [Escalation Policy](space-law/escalation.md)
 	- [Antag Policy](rules/antagpolicy.md)
@@ -12,6 +12,7 @@
 
 ---
 # DEPARTMENTS
+---
 - [Department Policies](departments.md)
     - [Command](departments/commmand.md)
         - [Captain/Acting Captain](departments/captain.md) 
@@ -29,11 +30,11 @@
     - [Service](departments/service.md)
     - [Medical](departments/medical.md)
 
----
-# SILICON
+
+# Silicon
 - [Silicon Definition](silicon-definition/silicondefinition.md)
 - [Silicon Policy](silicon-policy/siliconpolicy.md)
----
+
 # Security
 
 - [Security Overview](space-law/security-overview.md)
