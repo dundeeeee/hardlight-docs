@@ -1,5 +1,5 @@
 # Head of Security
->As the Head of Security, you are responsible for the safety of the station, the enforcement of Space Law, and the overall effectiveness of the Security department. Your role can be stressful, demanding, and often thankless, but it is your responsibility to ensure your officers are operating professionally, lawfully, and efficiently.
+>As the Head of Security, you are responsible for the safety of the station, the enforcement of Space Law, and the overall effectiveness of the Security department. Your role can be stressful, demanding, and often thankless, but it is your responsibility to ensure your officers are operating professionally, lawfully, and efficiently. Ensure you understand [Security Overview](../space-law/security-overview.md) and [Space Law](../space-law/crimes-and-punishments.md).
 
 - You should maintain regular communication with your officers and delegate responsibilities whenever possible. A Security department that communicates effectively will always outperform one that does not. Keep yourself informed of ongoing incidents, investigations, and developing threats, as even a missed radio transmission can have serious consequences.
 

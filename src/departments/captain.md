@@ -8,7 +8,7 @@ Your primary responsibilities are as follows:
 
 - Communicate with Colonial Command as needed. This may include providing status updates, requesting assistance, reporting significant incidents, requesting emergency response teams, or seeking guidance during unusual situations.
 
-- Raise and lower alert levels as appropriate, keep the crew informed of significant threats, authorize emergency measures when necessary, and ensure the station is prepared to respond to developing situations.
+- Raise and lower [alert levels](../space-law/alert-statuses.md) as appropriate, keep the crew informed of significant threats, authorize emergency measures when necessary, and ensure the station is prepared to respond to developing situations.
 
 - You may issue reasonable orders to departments and department heads when required. However, leadership is not about exercising authority at every opportunity. Listen to your staff, gather information, and make informed decisions rather than acting on incomplete information.
 
@@ -22,17 +22,30 @@ Your primary responsibilities are as follows:
 
 - Do not abuse your authority, ignore established policies without justification, or use your position to dominate every aspect of station operations. A good Captain leads the station; they do not become the station.
 
+## Demotion Guidelines
+- You have the authority to demote personnel, including Heads of Staff, when circumstances reasonably justify doing so. Demotion should be treated as a serious administrative action, not a punishment for personal disagreements, mistakes made in good faith, or differences in opinion. Whenever practical, gather information, speak with the involved parties, and attempt to resolve issues through communication before resorting to demotion.
+
+- Crew members may be demoted for incompetence, negligence, repeated misconduct, refusal to perform their duties, abuse of authority, or actions that place the station, crew, or department at significant risk. Demotion may also be appropriate when required by [Space Law punishments](../space-law/crimes-and-punishments.md).
+
+- Heads of Staff should be held to a higher standard than ordinary crew members. However, removing a department head should not be done lightly. Whenever practical, Command should attempt to correct the issue through discussion, guidance, reassignment, or other corrective measures before pursuing demotion.
+
+- The Captain should not act as judge, jury, and executioner. If the reason for a demotion stems from alleged criminal activity, Security should generally be allowed to investigate and present their findings before a final decision is made, unless immediate action is required to protect the station or crew.
+
+- Demotions involving Heads of Staff should generally be reported to Colonial Command. While the Captain retains the authority to take immediate action when necessary, Colonial Command should be informed of significant command-level personnel actions and may provide guidance, oversight, or replacement personnel when appropriate.
+
+- Demotion should be used to solve operational problems and maintain station effectiveness, not to settle personal disputes. If a demotion does not improve the situation, it is likely not the correct solution.
+
 # Acting Captain
 
-- Acting Captaincy should be determined through discussion between available department heads. The most senior title is not always the most qualified leader. If another Head of Staff is better suited to lead during a particular shift, you are encouraged to support that decision.
+- Acting Captaincy should be determined by a majority vote of available Heads of Staff. The most senior title is not always the most qualified leader, and Command is encouraged to select the individual best suited to lead the station during the current shift. If another Head of Staff is better suited to lead, you are encouraged to support that decision regardless of your own position.
 
-- If no consensus can be reached, maintain open communication between department heads and work together to ensure the station continues functioning effectively. Colonial Command may also be consulted for guidance when appropriate.
+- If a majority decision cannot be reached, Command should maintain open communication and continue operating collaboratively until a consensus is achieved. Colonial Command may be consulted for guidance when appropriate, but Command should make every reasonable effort to resolve the matter internally first.
 
 - As Acting Captain, your primary role remains your original department. You are not expected to abandon your departmental responsibilities simply because you have assumed command authority.
 
-- You should take only the tools necessary to perform command duties: the Nuclear Authentication Disk, Spare ID, Disk Pinpointer, Door Remote, and Spare Captain's Headset. Other equipment should remain secured unless a legitimate emergency requires its use.
+- You should take only the tools necessary to perform command duties: the Nuclear Authentication Disk, Spare ID (Set Job Title to Acting Captain), Disk Pinpointer, Door Remote, and Spare Captain's Headset. Other equipment should remain secured unless a legitimate emergency requires its use.
 
-- As Acting Captain, you are responsible for handling command-level decisions when necessary. This may include alert level changes, emergency coordination, shuttle calls, communication with Colonial Command, and cross-departmental leadership during major incidents.
+- As Acting Captain, you are responsible for handling command-level decisions when necessary. This may include [alert level](../space-law/alert-statuses.md) changes, emergency coordination, shuttle calls, communication with Colonial Command, and cross-departmental leadership during major incidents.
 
 - Until a significant emergency occurs, department heads should generally retain authority over their respective departments. Offer guidance and support when needed, but avoid unnecessarily inserting yourself into departmental matters that are already being handled competently.
 

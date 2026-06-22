@@ -30,6 +30,8 @@ Your role is that of a leader, not a boss. Remember that every crewmember is ult
 
 * Be a role model both in-character and out-of-character. As a representative of Colonial Command and a leader within the station, you should conduct yourself professionally. Avoid unnecessary hostility, public arguments, harassment, or behavior that undermines the credibility of your department. Treat others with respect, even when disagreements arise.
 
+* **At the end of a round, all Command personnel are expected to cryo** through Colonial Command cryo pods with all command-issued equipment in their possession. This is to allow other players the opportunity at command roles in the following round.
+
 ```admonish
 As a Head of Staff, you are expected to represent both your department and Colonial Command. Players will often look to you for guidance, leadership, and examples of how a department should function.
 

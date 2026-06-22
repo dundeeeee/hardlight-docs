@@ -6,10 +6,28 @@
 - Research should generally serve a purpose, whether that be improving station technology, investigating anomalies, assisting other departments, or advancing scientific understanding.
 - Science personnel should communicate with other departments regarding research projects that may affect them or require their assistance.
 - Artifacts, anomalies, and other unusual phenomena should be treated with appropriate caution. Curiosity is encouraged, recklessness is not.
-- Roboticists should ensure their creations serve a legitimate purpose and are constructed responsibly.
+- Scientists should ensure their creations serve a legitimate purpose and are constructed responsibly.
 - Scientists are encouraged to share discoveries and advancements with the rest of the station when appropriate.
 - Not every experiment needs to succeed. Failed experiments, unexpected results, and scientific setbacks can create just as much roleplay as successful projects.
 - Science personnel should remain mindful of the potential consequences of their actions. A poorly contained experiment can quickly become a station-wide problem.
+
+## Mantis
+
+- The Mantis serves as the station's primary advisor on psionic matters. They are expected to monitor unusual psionic activity, maintain records on known psions, and assist those struggling to understand or control their abilities.
+
+- The Mantis is a roleplay-focused position. Your role is to advise, educate, and help ensure psionic powers are used responsibly.
+
+- If a psion is abusing their abilities, endangering the station, harming others through reckless use of psionics, or repeatedly refusing to act responsibly, the Mantis may seek authorization to administer Mindbreaker and revoke those abilities.
+
+- Mindbreaking requires approval from the Research Director whenever available. If no Research Director is present, approval should be sought from the Captain or Acting Captain before proceeding.
+
+- Mindbreaking is a serious action and should not be used as a first resort. Whenever practical, attempt education, warnings, counseling, or other corrective measures first.
+
+- The Mantis should not abuse their authority. Personal disagreements, lawful psionic usage, or minor annoyances are not justification for Mindbreaking.
+``` admonish
+
+The Mantis exists to ensure psionic abilities remain a source of interesting roleplay rather than a source of unchecked disruption. Your role is to protect both psions and the station.
+```
 
 ## Final Note
 
