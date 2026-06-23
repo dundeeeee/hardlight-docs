@@ -6,7 +6,7 @@
 - Patients should be treated with professionalism, respect, and dignity whenever possible.
 - Medical staff should make reasonable efforts to preserve life and minimize unnecessary harm.
 - Confidential medical information should remain confidential unless disclosure is required for safety, legal, or operational reasons.
-- Chemists, Doctors, Surgeons, Psychologists, and Paramedics should cooperate to provide effective care rather than operating as entirely separate groups.
+- Chemists, Doctors, Virologists, Geneticists, Surgeons, Psychologists, and Paramedics should cooperate to provide effective care rather than operating as entirely separate groups.
 - Medical personnel are not Security and should avoid involving themselves in criminal investigations beyond providing medical expertise when requested.
 - Medical is encouraged to roleplay injuries, treatment, recovery, mental health, and long-term care rather than reducing every patient interaction to mechanical treatment.
 

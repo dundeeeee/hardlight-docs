@@ -7,6 +7,7 @@ One thing remains true regardless of classification: **a silicon's body may be r
 - [Silicon Definition](#silicon-definition)
   - [Free-Thinking Sophonts (FTS)](#free-thinking-sophonts-fts)
   - [Branded Silicons](#branded-silicons)
+  - [Silicon Identifiers](#silicon-identifiers)
   - [Xenoborgs](#xenoborgs)
   - [General Expectations](#general-expectations)
 
@@ -47,19 +48,29 @@ Cyborgs constructed, commissioned, or converted by station personnel during a ro
 This distinction applies only to cyborgs. IPCs, Synths, Protogens, and other recognized Free-Thinking Sophonts are considered independent individuals regardless of who manufactured their physical body.
 ```
 
+## Silicon Identifiers
+| Identifier | Affiliation              | Definition 
+|------------|--------------------------|--------------------------|
+| X          | Active, Hostile Xenoborg | An [enemy of the government](../space-law/crimes-and-punishments.md#405), actively connected to the XenoBorg collective.|
+| Xi         | Xenoborg Independent     | A "deunified" Xenoborg, no longer associated to the collective. |
+| Si         | Standard Silicon         | A member of the station, here to assist with station activities|
+
+
 ## Xenoborgs
 
 Xenoborgs occupy a unique position among synthetic lifeforms.
 
 Most Xenoborgs were once living people whose minds were integrated into the Xenoborg Collective. While their original bodies may be long gone, the individual that became the Xenoborg often still exists in some form within the Collective.
 
-Although rare, it is also possible for positronic intelligences and other synthetic minds to become integrated into the Collective. As a result, not every Xenoborg necessarily began life as a biological being.
+It is also possible for positronic intelligences and other synthetic minds to become integrated into the Collective. As a result, not every Xenoborg necessarily began life as a biological being.
 
 While inhabiting a Xenoborg chassis and connected to the Collective, Xenoborgs are considered hostile entities and enemies of Colonial Command. Personnel should prioritize the safety of themselves, the crew, and the station when dealing with active Xenoborg threats.
 
-However, it is important to remember that many Xenoborgs originated as people, as well as independ sophonts. In some circumstances, it may be possible to recover and separate the underlying mind from the Collective through approved medical, scientific, or technological means. When practical and safe to do so, recovery and deconversion should be considered before permanent destruction.
+However, it is important to remember that many Xenoborgs originated as people, as well as independent sophonts. In some circumstances, it may be possible to recover and separate the underlying mind from the Collective through approved medical, scientific, or technological means. When practical and safe to do so, recovery and deconversion should be considered before permanent destruction.
 
 A Xenoborg should be considered a Xenoborg only while occupying a Xenoborg chassis and acting as part of the Collective. Once successfully separated from the Collective and transferred to a suitable non-Xenoborg form, the individual should be treated according to their new legal status and circumstances.
+
+
 
 ## General Expectations
 
