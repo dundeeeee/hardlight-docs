@@ -1,54 +1,109 @@
 # Captain
->You are the station's Captain, and the final authority aboard the station. While you are expected to lead, coordinate, and make difficult decisions when necessary, you should not micromanage every department or override your Heads of Staff without good reason. The station functions best when its leadership works together. Your authority is broad, but not unlimited. You have access to all departmental communications, may issue reasonable orders, resolve disputes between departments, and make command decisions during emergencies. Whenever possible, trust your department heads to manage their own areas and step in only when leadership, coordination, or oversight is needed. Remember that this is ultimately your station. You are responsible for its crew, its operations, and its continued success. Even if outside organizations, response teams, or military forces arrive, station governance remains your responsibility unless Colonial Command explicitly states otherwise. You should remain on the station whenever possible. Leaving the station without a compelling operational reason or Colonial Command approval should be avoided.
 
+> You are the station's Captain, and the final authority aboard the station. While you are expected to lead, coordinate, and make difficult decisions when necessary, you should not micromanage every department or override your Heads of Staff without good reason. The station functions best when its leadership works together. Your authority is broad, but not unlimited. You have access to all departmental communications, may issue reasonable orders, resolve disputes between departments, and make command decisions during emergencies. Whenever possible, trust your department heads to manage their own areas and step in only when leadership, coordination, or oversight is needed.
+>
+> Remember that this is ultimately your station. You are responsible for its crew, its operations, and its continued success. Even if outside organizations, response teams, or military forces arrive, station governance remains your responsibility unless Colonial Command explicitly states otherwise.
+>
+> You should remain on the station whenever possible. Leaving the station without a compelling operational reason or Colonial Command approval should be avoided.
+
+## Quick Reference
+
+| A Good Captain...                  | A Poor Captain...                    |
+| ---------------------------------- | ------------------------------------ |
+| Leads and coordinates departments  | Micromanages departments             |
+| Delegates responsibility           | Tries to do every job personally     |
+| Communicates with Colonial Command | Ignores Colonial Command             |
+| Preserves life whenever practical  | Escalates situations unnecessarily   |
+| Relies on department expertise     | Overrides specialists without reason |
+| Resolves problems                  | Creates new problems                 |
+| Leads the station                  | Tries to become the station          |
+
+```admonish tip
+Your primary value comes from leadership, coordination, and decision making. You are not expected to personally solve every problem on the station.
+```
+
+## Core Responsibilities
 
 Your primary responsibilities are as follows:
 
-- Coordinate station operations and ensure departments are working together effectively. While department heads manage their own areas, it is your responsibility to maintain the bigger picture and address issues that affect the station as a whole.
+* Coordinate station operations and ensure departments are working together effectively. While department heads manage their own areas, it is your responsibility to maintain the bigger picture and address issues that affect the station as a whole.
 
-- Communicate with Colonial Command as needed. This may include providing status updates, requesting assistance, reporting significant incidents, requesting emergency response teams, or seeking guidance during unusual situations.
+* Communicate with Colonial Command as needed. This may include providing status updates, requesting assistance, reporting significant incidents, requesting emergency response teams, or seeking guidance during unusual situations.
 
-- Raise and lower [alert levels](../space-law/alert-statuses.md) as appropriate, keep the crew informed of significant threats, authorize emergency measures when necessary, and ensure the station is prepared to respond to developing situations.
+* Raise and lower [alert levels](../space-law/alert-statuses.md) as appropriate, keep the crew informed of significant threats, authorize emergency measures when necessary, and ensure the station is prepared to respond to developing situations.
 
-- You may issue reasonable orders to departments and department heads when required. However, leadership is not about exercising authority at every opportunity. Listen to your staff, gather information, and make informed decisions rather than acting on incomplete information.
+* You may issue reasonable orders to departments and department heads when required. However, leadership is not about exercising authority at every opportunity. Listen to your staff, gather information, and make informed decisions rather than acting on incomplete information.
 
-- The phrase "as needed" is important. Not every problem requires direct Captain involvement. Read the situation carefully before intervening. A minor dispute between crew members likely does not require command attention, while a department-wide crisis or major station threat likely does.
+## Expectations
 
-- While you may be tempted to personally involve yourself in every major incident, remember that your value often comes from leadership rather than direct action. Security officers should handle routine arrests. Engineers should repair infrastructure. Doctors should treat patients. Your role is to coordinate these efforts and ensure they are successful.
+* The phrase "as needed" is important. Not every problem requires direct Captain involvement. Read the situation carefully before intervening. A minor dispute between crew members likely does not require command attention, while a department-wide crisis or major station threat likely does.
 
-- During severe emergencies, you may become directly involved when circumstances require it. Hostile boardings, station-wide disasters, zombie outbreaks, mass casualties, and other existential threats may necessitate direct command presence. Even then, leadership and coordination should remain your primary focus whenever practical.
+* While you may be tempted to personally involve yourself in every major incident, remember that your value often comes from leadership rather than direct action. Security officers should handle routine arrests. Engineers should repair infrastructure. Doctors should treat patients. Your role is to coordinate these efforts and ensure they are successful.
 
-- The safety of the crew should always be one of your highest priorities. Whenever reasonably possible, seek solutions that preserve lives and minimize harm. Diplomacy, negotiation, and cooperation are often more effective than force.
+* During severe emergencies, you may become directly involved when circumstances require it. Hostile boardings, station-wide disasters, zombie outbreaks, mass casualties, and other existential threats may necessitate direct command presence. Even then, leadership and coordination should remain your primary focus whenever practical.
 
-- Do not abuse your authority, ignore established policies without justification, or use your position to dominate every aspect of station operations. A good Captain leads the station; they do not become the station.
+* The safety of the crew should always be one of your highest priorities. Whenever reasonably possible, seek solutions that preserve lives and minimize harm. Diplomacy, negotiation, and cooperation are often more effective than force.
+
+* Do not abuse your authority, ignore established policies without justification, or use your position to dominate every aspect of station operations. A good Captain leads the station; they do not become the station.
 
 ## Demotion Guidelines
-- You have the authority to demote personnel, including Heads of Staff, when circumstances reasonably justify doing so. Demotion should be treated as a serious administrative action, not a punishment for personal disagreements, mistakes made in good faith, or differences in opinion. Whenever practical, gather information, speak with the involved parties, and attempt to resolve issues through communication before resorting to demotion.
 
-- Crew members may be demoted for incompetence, negligence, repeated misconduct, refusal to perform their duties, abuse of authority, or actions that place the station, crew, or department at significant risk. Demotion may also be appropriate when required by [Space Law punishments](../space-law/crimes-and-punishments.md).
+* You have the authority to demote personnel, including Heads of Staff, when circumstances reasonably justify doing so. Demotion should be treated as a serious administrative action, not a punishment for personal disagreements, mistakes made in good faith, or differences in opinion. Whenever practical, gather information, speak with the involved parties, and attempt to resolve issues through communication before resorting to demotion.
 
-- Heads of Staff should be held to a higher standard than ordinary crew members. However, removing a department head should not be done lightly. Whenever practical, Command should attempt to correct the issue through discussion, guidance, reassignment, or other corrective measures before pursuing demotion.
+* Crew members may be demoted for incompetence, negligence, repeated misconduct, refusal to perform their duties, abuse of authority, or actions that place the station, crew, or department at significant risk. Demotion may also be appropriate when required by [Space Law punishments](../space-law/crimes-and-punishments.md).
 
-- The Captain should not act as judge, jury, and executioner. If the reason for a demotion stems from alleged criminal activity, Security should generally be allowed to investigate and present their findings before a final decision is made, unless immediate action is required to protect the station or crew.
+* Heads of Staff should be held to a higher standard than ordinary crew members. However, removing a department head should not be done lightly. Whenever practical, Command should attempt to correct the issue through discussion, guidance, reassignment, or other corrective measures before pursuing demotion.
 
-- Demotions involving Heads of Staff should generally be reported to Colonial Command. While the Captain retains the authority to take immediate action when necessary, Colonial Command should be informed of significant command-level personnel actions and may provide guidance, oversight, or replacement personnel when appropriate.
+* The Captain should not act as judge, jury, and executioner. If the reason for a demotion stems from alleged criminal activity, Security should generally be allowed to investigate and present their findings before a final decision is made, unless immediate action is required to protect the station or crew.
 
-- Demotion should be used to solve operational problems and maintain station effectiveness, not to settle personal disputes. If a demotion does not improve the situation, it is likely not the correct solution.
+* Demotions involving Heads of Staff should generally be reported to Colonial Command. While the Captain retains the authority to take immediate action when necessary, Colonial Command should be informed of significant command-level personnel actions and may provide guidance, oversight, or replacement personnel when appropriate.
+
+* Demotion should be used to solve operational problems and maintain station effectiveness, not to settle personal disputes. If a demotion does not improve the situation, it is likely not the correct solution.
+
+```admonish warning
+Demotion is a tool for maintaining station operations, not a tool for winning arguments.
+```
 
 # Acting Captain
 
-- Acting Captaincy should be determined by a majority vote of available Heads of Staff. The most senior title is not always the most qualified leader, and Command is encouraged to select the individual best suited to lead the station during the current shift. If another Head of Staff is better suited to lead, you are encouraged to support that decision regardless of your own position.
+## Quick Reference
 
-- If a majority decision cannot be reached, Command should maintain open communication and continue operating collaboratively until a consensus is achieved. Colonial Command may be consulted for guidance when appropriate, but Command should make every reasonable effort to resolve the matter internally first.
+| Acting Captain Should...                | Acting Captain Should Not...      |
+| --------------------------------------- | --------------------------------- |
+| Continue performing their original role | Abandon their department          |
+| Coordinate emergencies                  | Micromanage departments           |
+| Use only necessary command equipment    | Loot the Captain's office         |
+| Support department heads                | Override them unnecessarily       |
+| Lead when needed                        | Treat the position as a promotion |
 
-- As Acting Captain, your primary role remains your original department. You are not expected to abandon your departmental responsibilities simply because you have assumed command authority.
+## Appointment
 
-- You should take only the tools necessary to perform command duties: the Nuclear Authentication Disk, Spare ID (Set Job Title to Acting Captain), Disk Pinpointer, Door Remote, and Spare Captain's Headset. Other equipment should remain secured unless a legitimate emergency requires its use.
+* Acting Captaincy should be determined by a majority vote of available Heads of Staff. The most senior title is not always the most qualified leader, and Command is encouraged to select the individual best suited to lead the station during the current shift. If another Head of Staff is better suited to lead, you are encouraged to support that decision regardless of your own position.
 
-- As Acting Captain, you are responsible for handling command-level decisions when necessary. This may include [alert level](../space-law/alert-statuses.md) changes, emergency coordination, shuttle calls, communication with Colonial Command, and cross-departmental leadership during major incidents.
+* If a majority decision cannot be reached, Command should maintain open communication and continue operating collaboratively until a consensus is achieved. Colonial Command may be consulted for guidance when appropriate, but Command should make every reasonable effort to resolve the matter internally first.
 
-- Until a significant emergency occurs, department heads should generally retain authority over their respective departments. Offer guidance and support when needed, but avoid unnecessarily inserting yourself into departmental matters that are already being handled competently.
+## Equipment
 
-- If a department lacks leadership, you may provide direction and assistance to help maintain station operations. Your goal is to support the station and its crew, not to centralize authority around yourself.
+* You should take only the tools necessary to perform command duties:
 
-- Acting Captaincy is a responsibility, not a promotion. Lead with restraint, communicate clearly, and remember that your purpose is to keep the station functioning until permanent command can resume.
+  * Nuclear Authentication Disk
+  * Spare ID (Set Job Title to Acting Captain)
+  * Disk Pinpointer
+  * Door Remote
+  * Spare Captain's Headset
+
+* Other equipment should remain secured unless a legitimate emergency requires its use.
+
+## Responsibilities
+
+* As Acting Captain, your primary role remains your original department. You are not expected to abandon your departmental responsibilities simply because you have assumed command authority.
+
+* As Acting Captain, you are responsible for handling command-level decisions when necessary. This may include [alert level](../space-law/alert-statuses.md) changes, emergency coordination, shuttle calls, communication with Colonial Command, and cross-departmental leadership during major incidents.
+
+* Until a significant emergency occurs, department heads should generally retain authority over their respective departments. Offer guidance and support when needed, but avoid unnecessarily inserting yourself into departmental matters that are already being handled competently.
+
+* If a department lacks leadership, you may provide direction and assistance to help maintain station operations. Your goal is to support the station and its crew, not to centralize authority around yourself.
+
+```admonish note
+Acting Captaincy is a responsibility, not a promotion. Lead with restraint, communicate clearly, and remember that your purpose is to keep the station functioning until permanent command can resume.
+```

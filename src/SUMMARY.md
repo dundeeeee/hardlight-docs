@@ -9,6 +9,7 @@
 	- [Escalation Policy](space-law/escalation.md)
 	- [Antag Policy](rules/antagpolicy.md)
 - [Conduct & Expectations](rules/conduct.md)
+  - [Roleplay Expectations](rules/roleplay.md)
 
 ---
 # DEPARTMENTS
@@ -28,13 +29,16 @@
     - [Science](departments/science.md)
     - [Service](departments/service.md)
     - [Medical](departments/medical.md)
-
+---
+# PSIONICS
+- [Psionic Policy](psionic-policy/psionicpolicy.md)
+- [Mindbreak Policy](mindbreak-policy/mindbreak.md)
 ---
 # SILICON
 - [Silicon Definition](silicon-definition/silicondefinition.md)
 - [Silicon Policy](silicon-policy/siliconpolicy.md)
 ---
-# Security
+# SECURITY
 
 - [Security Overview](space-law/security-overview.md)
     - [Security Policies & Guidebook](space-law/security-guidebook.md)

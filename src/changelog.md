@@ -2,6 +2,20 @@
 
 This changelog is a running history for the documentation set.
 
+```admonish note title="June 23, 2026 (Revision 6)"
+- General formatting of overall structure adjusted to be more conforming.
+- Created Command Policy, as well as detailed policies per command member.
+- Created Department policies.
+- Created Silicon Definition and Policy.
+- Created Psionic and Mindbreak Policy.
+- Created Antag Policy.
+- Conduct & Expectations updated, Roleplay Expectations added.
+- Updated Security terminology for C2, emphasizing C2 permits are ONLY needed for C2 that is brought on station. C2 elsewhere, such as on a ship, is completely legal and fine. (may need emphasis elsewhere)
+```
+
+
+
+
 ```admonish note title="May 28, 2026 (Revision 5)"
 - Updated Security guidance for permabrig placement, search rules, and Red Alert handling.
 - Added ship boarding steps for Traffic/Common calls, warrants, depowering, IFFless vessels, and radar-based escalation.
