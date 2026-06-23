@@ -20,6 +20,10 @@
     - [Service](departments/service.md)
     - [Medical](departments/medical.md)
 
+# Silicons
+
+- [Silicon Definition](silicon/silicondefinition.md) 
+- [Silicon Policies](silicon/siliconpolicy.md)
 
 # Security
 
@@ -30,6 +34,7 @@
 - [Space Law](space-law/crimes-and-punishments.md)
     - [Security Authority](space-law/security-authority.md)
     - [Legal Standards](space-law/legal-standards.md)
+
 
 
 # ADMINISTRATION
