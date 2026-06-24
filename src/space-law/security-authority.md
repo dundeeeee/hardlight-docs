@@ -19,6 +19,22 @@ This authority extends to **all space within the station's operational sector** 
 
 **Exception — Colonial Command Territory:** Security does not exercise primary enforcement authority within Colonial Command's own territorial space. Security personnel may operate there only in exigent circumstances — specifically, active pursuit of a fleeing suspect, or situations requiring immediate action to prevent serious harm — and must defer to Colonial Command's authority upon contact.
 
+## Officer Discretion
+
+Members of the Security Department are permitted to exercise professional discretion when handling criminal offenses. Security personnel are not expected to be unthinking enforcement automatons; instead, they should evaluate the context of a situation to determine if a formal arrest, a warning, or conditional leniency is most appropriate. Officers may choose not to act upon or formally charge a minor offense if they can articulate a reasonable, common sense justification for doing so.
+
+When deciding whether to grant leniency, officers should weigh the totality of the circumstances. This includes looking at the suspect's intent, their history, and their level of cooperation, as well as whether the offense caused actual harm or damage. While minor infractions and petty crimes are excellent candidates for a simple verbal warning or, discretion should never be used to excuse behavior that actively compromises station safety.
+
+For Capital Crimes (400-series), discretion is heavily restricted and must never be applied frivolously or openly. Because these high level offenses present a severe threat to the crew and the station, standard enforcement and sentencing are mandatory. Any deviation or leniency for a Capital Crime requires an extraordinary, operational necessity such as needing the suspect's immediate help to prevent a greater disaster and must receive explicit, logged approval from appropiate command.
+
+```admonish warning
+The purpose of officer discretion is to create leniancy in the application of Space Law. It should not be used excessively to the point of derelection or corruption.
+```
+
+```admonish info
+Security players should refer to [RP-First Sentancing](../space-law/security-overview.md#rp-first-sentencing) to understand alternative avenues for addressing criminal offenses beyond simple confinement.
+```
+
 ### Jurisdiction Over Vessels
 
 Space Law applies to **all vessels operating within sector space**, regardless of their ownership, affiliation, or any claimed independence. A freelancer vessel, private ship, or independent craft is not exempt from Space Law by virtue of its private ownership. Vessels in this sector are not sovereign territory. No claim of independence, neutrality, or "castle doctrine" constitutes a valid basis for excluding Security authority.
