@@ -1,18 +1,89 @@
 # Chief Medical Officer
->As the Chief Medical Officer, you are responsible for overseeing the Medical department and ensuring the health and wellbeing of the station's crew. While you are fully capable of treating patients yourself, your primary role is leadership, coordination, and ensuring your department operates effectively and professionally.
 
-- Medical is one of the largest and most diverse departments on the station. Doctors, Paramedics, Surgeons, Chemists, Psychologists, Geneticists all fall under your authority. Make an effort to check in with each subsection of your department and ensure they have the resources, personnel, and support they need to perform their duties.
+> As the Chief Medical Officer, you are responsible for overseeing the Medical department and ensuring the health and wellbeing of the station's crew. While you are fully capable of treating patients yourself, your primary role is leadership, coordination, and ensuring your department operates effectively and professionally.
 
-- You are responsible for maintaining medical standards and ensuring your staff follow proper procedures, ethical practices, and department policies. Patients should be treated with professionalism and respect regardless of their background, status, or personal circumstances.
+## Quick Reference
 
-- During emergencies or mass casualty events, you should coordinate the department's response and delegate responsibilities where appropriate. A well-organized Medical department can save far more lives than a single doctor attempting to handle every patient personally.
+| A Good Chief Medical Officer...    | A Poor Chief Medical Officer...            |
+| ---------------------------------- | ------------------------------------------ |
+| Coordinates patient care           | Tries to treat every patient personally    |
+| Supports every medical subsection  | Ignores parts of their department          |
+| Maintains professional standards   | Allows negligence or misconduct            |
+| Delegates during emergencies       | Creates bottlenecks during crises          |
+| Protects patient privacy           | Shares confidential information carelessly |
+| Uses medical authority responsibly | Hands out restricted treatments recklessly |
+| Treats everyone fairly             | Plays favorites                            |
 
-- As Chief Medical Officer, you are expected to have a broad understanding of medical operations. While you do not need to personally specialize in every field, you should possess enough knowledge to guide your staff, answer questions, and make informed decisions when necessary.
+```admonish tip id="x7m2ck"
+Your job is not to be the best doctor on the station. Your job is to ensure the Medical Department can effectively care for the entire crew.
+```
 
-- You hold authority over the production and distribution of specialized medical chemicals, advanced treatments, implants, and other controlled medical resources. Use good judgment when approving their use and consider the risks, benefits, and operational needs involved.
+## Core Responsibilities
 
-- Medical personnel are often trusted with sensitive information and vulnerable patients. Ensure your department respects privacy, maintains professionalism, and handles confidential matters appropriately.
+* Medical is one of the largest and most diverse departments on the station. Doctors, Paramedics, Surgeons, Chemists, Psychologists, and Geneticists all fall under your authority.
 
-- As a member of Command, you should remain informed of station events and communicate with other departments when medical expertise is needed. Medical concerns rarely remain confined to Medbay for long.
+* Make an effort to check in with each subsection of your department and ensure they have the resources, personnel, and support they need to perform their duties.
 
-- Do not allow personal relationships, favoritism, or departmental politics to influence patient care. The Medical department exists to preserve life and provide care to those who need it, regardless of who they are.
+* While you are capable of treating patients yourself, your primary responsibility is coordinating the department and ensuring care is delivered effectively.
+
+* A good Chief Medical Officer enables their department to succeed rather than attempting to personally handle every situation.
+
+## Department Leadership
+
+* You are responsible for maintaining medical standards and ensuring your staff follow proper procedures, ethical practices, and department policies.
+
+* Patients should be treated with professionalism and respect regardless of their background, status, or personal circumstances.
+
+* If members of your department are inexperienced, make reasonable efforts to teach them or assign someone capable of doing so.
+
+* Set the standard for professionalism, competence, and bedside manner within your department.
+
+## Emergency Response
+
+* During emergencies or mass casualty events, you should coordinate the department's response and delegate responsibilities where appropriate.
+
+* A well-organized Medical department can save far more lives than a single doctor attempting to handle every patient personally.
+
+* Ensure medical personnel are assigned where they are most needed and that resources are distributed appropriately during large-scale incidents.
+
+* During prolonged emergencies, maintain communication with Command regarding casualty numbers, resource shortages, and departmental needs.
+
+## Medical Authority
+
+* You hold authority over the production and distribution of specialized medical chemicals, advanced treatments, implants, and other controlled medical resources.
+
+* Use good judgment when approving their use and consider the risks, benefits, and operational needs involved.
+
+* Ensure dangerous chemicals, experimental treatments, and restricted medical technologies are handled responsibly.
+
+* Just because a treatment exists does not mean it is appropriate for every situation.
+
+## Patient Care and Privacy
+
+* Medical personnel are often trusted with sensitive information and vulnerable patients.
+
+* Ensure your department respects privacy, maintains professionalism, and handles confidential matters appropriately.
+
+* Medical records, diagnoses, and personal information should only be shared when operationally necessary, legally required, or needed to protect the station and its crew.
+
+* Patients should feel comfortable seeking medical treatment without fear of unnecessary judgment or exposure.
+
+## Command Responsibilities
+
+* As a member of Command, you should remain informed of station events and communicate with other departments when medical expertise is needed.
+
+* Medical concerns rarely remain confined to Medbay for long. Mass casualty events, psychological concerns, and other medical situations often require coordination with the broader station.
+
+* Keep Command informed of significant medical threats that may impact station operations or crew safety.
+
+## Professional Standards
+
+* Do not allow personal relationships, favoritism, departmental politics, or personal opinions to influence patient care.
+
+* The Medical department exists to preserve life and provide care to those who need it, regardless of who they are.
+
+* Crew members may not always agree with medical decisions, but they should always be able to trust that those decisions were made professionally and in good faith.
+
+```admonish warning id="m4q8tf"
+Medical personnel are trusted with the lives of others. Poor judgment, negligence, or misuse of medical authority can have consequences just as severe as any engineering failure or security mistake.
+```

@@ -1,16 +1,87 @@
 # Quartermaster
->As the Quartermaster, you are responsible for managing the station's logistical operations. Cargo keeps the station supplied and functioning. While other departments solve problems directly, your department ensures they have the resources necessary to do so.
 
-- You have final authority over routine cargo orders, resource allocation, and cargo operations within reason. While crew members are free to request supplies, it is your responsibility to determine whether those requests are legitimate, beneficial to the station, and practical to fulfill. Not every request needs to be approved simply because someone asked.
+> As the Quartermaster, you are responsible for managing the station's logistical operations. Cargo keeps the station supplied and functioning. While other departments solve problems directly, your department ensures they have the resources necessary to do so.
 
-- A good Quartermaster pays attention to the station's needs before being told. Keep an eye on command communications, station announcements, and ongoing situations. If Engineering is dealing with structural damage, Medical is facing a mass casualty event, or Security is responding to a major threat, you should already be considering what resources may be needed and coordinating your department accordingly.
+## Quick Reference
 
-- You should maintain communication with other departments to identify material shortages and logistical needs. Science may require resources for research, Engineering may need construction materials, Medical may need equipment, and Security may require specialized gear. Cargo exists to support the station as a whole.
+| A Good Quartermaster...       | A Poor Quartermaster...                  |
+| ----------------------------- | ---------------------------------------- |
+| Anticipates station needs     | Waits to be told everything              |
+| Supports other departments    | Creates unnecessary obstacles            |
+| Coordinates salvage efforts   | Lets salvagers operate without direction |
+| Maintains communication       | Operates in isolation                    |
+| Uses resources responsibly    | Hands resources out recklessly           |
+| Takes care of their personnel | Ignores missing or stranded crew         |
+| Keeps Cargo organized         | Allows chaos and disorganization         |
 
-- You are responsible for directing and supervising your Salvage Technicians. This includes identifying valuable salvage opportunities, prioritizing resources the station needs, and ensuring salvage operations are conducted safely. Salvagers should not simply disappear into deep space without communication or purpose.
+```admonish tip id="v8p3xt"
+A good Quartermaster is proactive rather than reactive. The best Cargo departments are already preparing solutions before the station realizes it has a problem.
+```
 
-- Keep track of your department personnel and their wellbeing. If a Salvage Technician goes missing, fails to report in, or becomes stranded, you should coordinate recovery efforts with Medical, Security, independent crews, or Command as appropriate. Your people are resources too.
+## Core Responsibilities
 
-- Independent crews, merchants, and freelancers can be valuable partners for Cargo. Do not hesitate to communicate with them regarding materials, salvage opportunities, transportation, or logistical assistance when doing so benefits the station.
+* You have final authority over routine cargo operations, resource allocation, and logistical decisions within reason.
 
-- Do not abuse your authority by withholding essential supplies, playing favorites, or using your position to obstruct other departments/crew without a legitimate operational reason. Cargo should support the station's success, not create unnecessary obstacles.
+* While crew members are free to request supplies, it is your responsibility to determine whether those requests are legitimate, beneficial to the station, and practical to fulfill.
+
+* Not every request needs to be approved simply because someone asked for it.
+
+* Cargo exists to support station operations, not to act as a vending machine.
+
+## Logistics and Resource Management
+
+* A good Quartermaster pays attention to the station's needs before being told.
+
+* Keep an eye on command communications, station announcements, and ongoing situations.
+
+* If Engineering is dealing with structural damage, Medical is facing a mass casualty event, or Security is responding to a major threat, you should already be considering what resources may be needed.
+
+* Anticipating problems is often more valuable than reacting to them.
+
+## Department Coordination
+
+* You should maintain communication with other departments to identify material shortages and logistical needs.
+
+* Engineering may require construction materials, Medical may need equipment, Science may need research resources, and Security may require specialized support.
+
+* Cargo exists to support the station as a whole, and maintaining good relationships with other departments is often critical to that mission.
+
+* Keep Command informed of significant supply shortages, logistical issues, or resource concerns that may impact station operations.
+
+## Salvage Operations
+
+* You are responsible for directing and supervising your Salvage Specialists.
+
+* This includes identifying valuable salvage opportunities, prioritizing resources the station needs, and ensuring salvage operations are conducted safely.
+
+* Salvagers should not simply disappear into deep space without communication or purpose.
+
+* Ensure salvage efforts are contributing meaningfully to station needs whenever practical.
+
+## Personnel Oversight
+
+* Keep track of your department personnel and their wellbeing.
+
+* If a Salvage Specialist goes missing, fails to report in, or becomes stranded, coordinate recovery efforts with Medical, Security, independent crews, or Command as appropriate.
+
+* Cargo personnel are valuable assets, and their safety should not be ignored simply because they work away from the station.
+
+## Independent Crews and Trade
+
+* Freelancers can be valuable partners for Cargo.
+
+* Do not hesitate to communicate with them regarding materials, salvage opportunities, transportation, or logistical assistance when doing so benefits the station.
+
+* Good relationships with outside parties can often solve problems that station resources alone cannot.
+
+## Professional Standards
+
+* Do not abuse your authority by withholding essential supplies, playing favorites, or using your position to obstruct other departments without a legitimate operational reason.
+
+* Cargo should support the station's success, not create unnecessary obstacles.
+
+* Crew members may not always agree with your decisions, but they should be able to trust that those decisions are being made in good faith and for the benefit of station operations.
+
+```admonish warning id="m6k2ra"
+Poor logistics can cripple a station just as effectively as a power failure or security breach. Use good judgment when allocating resources and prioritizing requests.
+```

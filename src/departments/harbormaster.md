@@ -1,12 +1,76 @@
 # Harbor Master
->As the Harbor Master, your primary responsibility is maintaining relations between the station and the Freelancer's that frequent Frontier space. While they are not employees of Colonial Command, they are often an important source of labor, resources, transportation, and emergency assistance. You act as the station's primary representative when interacting with them.
 
-- You are responsible for coordinating civilian assistance when needed. This may include purchasing resources, hiring crews for salvage operations, requesting armed assistance during station emergencies, arranging emergency repairs, or seeking medical aid. Remember that Freelancers are independent contractors, not station personnel. You may request their assistance, but you do not command them.
+> As the Harbor Master, your primary responsibility is maintaining relations between the station and the Freelancers that frequent Frontier space. While they are not employees of Colonial Command, they are often an important source of labor, resources, transportation, and emergency assistance. You act as the station's primary representative when interacting with them.
 
-- You oversee civilian docking operations and vessel registration. If a Freelancer wishes to rename their vessel, this request should generally go through you.
+## Quick Reference
 
-- You should work closely with the Station Traffic Controller to ensure traffic around the station remains organized and safe. While they handle the day-to-day movement of ships, you are ultimately responsible for the traffic side of station and dock operations.
+| A Good Harbor Master...                    | A Poor Harbor Master...                     |
+| ------------------------------------------ | ------------------------------------------- |
+| Builds relationships with Freelancer crews | Treats Freelancers as station employees     |
+| Coordinates civilian assistance            | Attempts to command independent crews       |
+| Maintains organized docking operations     | Ignores station traffic and vessel records  |
+| Works closely with Traffic Control         | Operates independently of station logistics |
+| Represents the station professionally      | Creates unnecessary conflict with visitors  |
+| Solves problems through communication      | Tries to solve every problem personally     |
 
-- While you are a member of command, you are not Security, Cargo, or the Captain. Avoid inserting yourself into matters outside your area of expertise. Your role is diplomacy, coordination, and administration, not direct command of station departments.
+```admonish tip id="h8r2mw"
+Freelancers are some of the station's most valuable allies. Your job is not to command them, but to build relationships that encourage them to help when assistance is needed.
+```
 
-- Do not treat Freelancer's as unpaid station employees, personal assistants, or disposable labor. They are independent crews with their own interests and goals.
+## Core Responsibilities
+
+* You are the station's primary representative when dealing with independent crews, merchants, salvagers, contractors, and other civilian vessels operating in Frontier space.
+
+* Your role is centered around diplomacy, coordination, administration, and maintaining positive working relationships with those who regularly interact with the station.
+
+* While you are a member of Command, your authority generally extends to station harbor operations and civilian relations rather than the management of station departments.
+
+## Freelancer Relations
+
+* You are responsible for coordinating civilian assistance when needed.
+
+* This may include arranging resource deliveries, requesting salvage support, coordinating emergency repairs, securing transportation assistance, obtaining medical aid, or seeking armed support during station emergencies.
+
+* Remember that Freelancers are independent contractors, not station personnel. You may request their assistance, negotiate agreements, and coordinate joint efforts, but you do not command them.
+
+* Good relationships with independent crews often provide the station with opportunities and resources that would otherwise be unavailable.
+
+## Docking and Vessel Administration
+
+* You oversee civilian docking operations and vessel registration.
+
+* Ensure arriving vessels are properly identified, documented when necessary, and directed to appropriate docking locations.
+
+* If a Freelancer wishes to rename their vessel, the request should generally be processed through you.
+
+* Maintain accurate records whenever practical to ensure harbor operations remain organized and efficient.
+
+## Traffic Coordination
+
+* You should work closely with the Station Traffic Controller to ensure traffic around the station remains organized and safe.
+
+* While the Station Traffic Controller handles much of the day-to-day movement of vessels, you retain overall responsibility for harbor operations and civilian traffic management.
+
+* Ensure docking traffic, departures, and civilian vessel activity do not unnecessarily interfere with station operations.
+
+## Command Responsibilities
+
+* As a member of Command, you should remain informed of major station events and emergencies.
+
+* During crises, you may be called upon to coordinate assistance from civilian vessels, organize evacuations, secure transportation, or establish communication with nearby crews.
+
+* Keep Command informed of significant civilian activity, unusual vessel behavior, or opportunities that may benefit the station.
+
+## Professional Standards
+
+* Do not treat Freelancers as unpaid station employees, personal assistants, or disposable labor.
+
+* Independent crews have their own goals, interests, and responsibilities. Respect their autonomy and treat them as professional partners rather than subordinates.
+
+* Avoid inserting yourself into matters outside your area of expertise. You are not Security, Cargo, or the Captain.
+
+* Your role is to facilitate cooperation, build relationships, and ensure the station remains connected to the wider Frontier community.
+
+```admonish warning id="f5v9qd"
+The Harbor Master represents the station to much of the Frontier. The relationships you build—or damage—can have lasting effects on the station's reputation and access to civilian assistance.
+```

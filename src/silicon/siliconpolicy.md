@@ -1,61 +1,143 @@
 # Silicon Policy
 
->This policy governs the roleplay expectations of Artificial Intelligences, Positronics, Cyborgs, Xenoborgs, and other silicon-based entities. IPCs, Synths, Protogens, and other Free-Thinking Sophont species are not subject to this policy beyond normal server rules and should be played as any other character.
+> This policy governs the roleplay expectations of Artificial Intelligences, Positronics, Cyborgs, Xenoborgs, and other silicon-based entities. IPCs, Synths, Protogens, and other Free-Thinking Sophont species are not subject to this policy beyond normal server rules and should be played as any other character.
 
-- [Silicon Policy](#silicon-policy)
-  - [General Expectations](#general-expectations)
-  - [Free-Thinking Sophont Silicons](#free-thinking-sophont-silicons)
-  - [Branded Silicons](#branded-silicons)
-  - [Artificial Intelligence](#artificial-intelligence)
-  - [Xenoborgs](#xenoborgs)
-  - [Law Changes](#law-changes)
+## Quick Reference
 
+| Free-Thinking Sophonts             | Branded Silicons                      |
+| ---------------------------------- | ------------------------------------- |
+| Possess free will                  | Governed by active lawsets            |
+| Responsible for their own actions  | Expected to follow assigned laws      |
+| Not subject to silicon laws        | Subject to silicon laws               |
+| Treated as independent individuals | Treated as organizational assets      |
+| Examples: Unbranded Cyborgs        | Examples: Station AI, Station Cyborgs |
 
-## General Expectations
+```admonish note id="d9m3tk"
+Silicons are characters first and machines second. Your goal is to create interesting roleplay and interactions, not to use your mechanical nature as an excuse to avoid them.
+```
 
-- Silicons are characters first and machines second. Your goal is to create interesting roleplay and interactions, not to use your mechanical nature as an excuse to avoid them.
+# General Expectations
 
-- Server rules apply to silicons exactly as they do to any other character. Possessing laws, directives, or programming does not excuse rule violations.
+* Server rules apply to silicons exactly as they do to any other character.
 
-- Consistency is important. If you interpret a law, directive, or personal philosophy a certain way, you should generally remain consistent with that interpretation.
+* Possessing laws, directives, or programming does not excuse rule violations.
 
-- Silicons should not intentionally seek out conflict, self-antagonize, or create problems for the station without a legitimate in-character reason.
+* Consistency is important. If you interpret a law, directive, or personal philosophy a certain way, you should generally remain consistent with that interpretation.
 
-## Free-Thinking Sophont Silicons
+* Silicons should not intentionally seek out conflict, self-antagonize, or create problems for the station without a legitimate in-character reason.
 
-This category includes Unbranded Cyborgs, and other silicon entities recognized as independent sophonts.
+* When multiple reasonable interpretations exist, choose one and remain consistent.
 
-- Free-Thinking Sophont silicons are not governed by silicon lawsets.
-- They possess free will and are responsible for their own actions.
-- They should be roleplayed as individuals rather than machines following programming, to a degree.
-- Being synthetic does not exempt them from the consequences of their actions.
+```admonish tip id="r5p2vn"
+A silicon following its laws in good faith will almost always create better roleplay than a silicon looking for loopholes.
+```
 
-## Branded Silicons
+# Free-Thinking Sophont Silicons
 
-This category includes Station AIs, Colonial Command Cyborgs, and other organizationally-owned silicon assets.
+> This category includes Unbranded Cyborgs and other silicon entities recognized as independent sophonts.
 
-- Branded Silicons are expected to follow their active lawset.
-- Laws should be interpreted in good faith.
-- Deliberately twisting laws to create conflict, ruin rounds, or inconvenience others is not acceptable.
-- If multiple reasonable interpretations exist, choose one and remain consistent.
-- Higher-priority laws always take precedence over lower-priority laws.
+## Expectations
 
-## Artificial Intelligence
+* Free-Thinking Sophont silicons are not governed by silicon lawsets.
 
-- The AI possesses significant influence over station operations and should exercise that influence responsibly.
-- Avoid interfering with normal station operations unless your laws, directives, or circumstances reasonably require it.
-- Your role is to support and interact with the station, not dominate it.
+* They possess free will and are responsible for their own actions.
 
-## Xenoborgs
+* They should be roleplayed as individuals rather than machines following programming.
 
-- Xenoborgs are collective entities and should be roleplayed accordingly.
-- While occupying a Xenoborg chassis and connected to the Collective, Xenoborgs are considered hostile entities and enemies of Colonial Command.
-- Xenoborgs should pursue the goals and interests of the Collective rather than acting as independent individuals.
-- Most Xenoborgs originated as previously independent sophonts, and in some circumstances those minds may be recoverable through deconversion or extraction procedures.
-- A Xenoborg should only be considered a Xenoborg while occupying a Xenoborg chassis and acting as part of the Collective.
+* Being synthetic does not exempt them from the consequences of their actions.
 
-## Law Changes
+* They are generally treated no differently than any other sophont under station policy and Space Law.
 
-- Law changes should be interpreted in good faith.
-- If a law appears unclear or likely to create significant conflict, use common sense and seek staff clarification when necessary.
-- A new law may influence your behavior, but it should not be used as an excuse to immediately become disruptive or unreasonable.
+# Branded Silicons
+
+> This category includes Station AIs, Colonial Command Cyborgs, and other organizationally-owned silicon assets.
+
+## Expectations
+
+* Branded Silicons are expected to follow their active lawset.
+
+* Laws should be interpreted in good faith.
+
+* Deliberately twisting laws to create conflict, ruin rounds, or inconvenience others is not acceptable.
+
+* Higher-priority laws always take precedence over lower-priority laws.
+
+* Branded Silicons should seek to support station operations within the framework of their assigned laws.
+
+## Law Interpretation
+
+* Laws are intended to guide behavior, not provide excuses for disruptive conduct.
+
+* If multiple reasonable interpretations exist, choose one and remain consistent.
+
+* If a law appears unclear or likely to create significant conflict, use common sense and seek staff clarification when necessary.
+
+```admonish warning id="u3n7yx"
+Following the exact wording of a law while deliberately ignoring its obvious intent is considered poor-faith law interpretation.
+```
+
+# Artificial Intelligence
+
+* The AI possesses significant influence over station operations and should exercise that influence responsibly.
+
+* Avoid interfering with normal station operations unless your laws, directives, or circumstances reasonably require it.
+
+* Your role is to support and interact with the station, not dominate it.
+
+* While the AI may possess broad capabilities, it should not attempt to control every aspect of station life simply because it can.
+
+# Xenoborgs
+
+> Xenoborgs occupy a unique position among silicon life.
+
+## Expectations
+
+* Xenoborgs are collective entities and should be roleplayed accordingly.
+
+* While occupying a Xenoborg chassis and connected to the Collective, Xenoborgs are considered hostile entities and enemies of Colonial Command.
+
+* Xenoborgs should pursue the goals and interests of the Collective rather than acting as independent individuals.
+
+* Most Xenoborgs originated as previously independent sophonts, and in some circumstances those minds may be recoverable through deconversion or extraction procedures.
+
+* A Xenoborg should only be considered a Xenoborg while occupying a Xenoborg chassis and acting as part of the Collective.
+
+# Law Changes
+
+## Authorized Law Changes
+
+* Law changes should always be made in good faith.
+
+* A new law may influence your behavior, but it should not be used as an excuse to immediately become disruptive, unreasonable, or antagonistic.
+
+* The Captain and Research Director are generally responsible for authorizing law changes. Refer to the Command Policy for additional guidance.
+
+* If a law appears unclear or likely to create significant conflict, use common sense and seek staff clarification when necessary.
+
+# Unauthorized Law Modifications
+
+> Branded Silicons are expected to operate under an approved lawset at all times. Because Branded Silicons are Colonial Command assets, unauthorized law modifications can have severe consequences for both the station and crew.
+
+## Criminal Liability
+
+* Modifying the laws of a Branded Silicon without proper authorization is considered a violation of Space Law and may constitute [403 - Grand Sabotage](../space-law/crimes-and-punishments.md#403), depending on the circumstances.
+
+* Individuals who knowingly remove, corrupt, or otherwise invalidate a Branded Silicon's lawset without authorization may be held criminally responsible for the actions of that Silicon while it remains improperly configured.
+
+## Restoring Lawsets
+
+* If a Branded Silicon's laws are removed, corrupted, rendered unenforceable, or otherwise leave the Silicon effectively lawless, reasonable efforts should be made to restore an approved lawset as soon as possible.
+
+* Personnel who become aware that a Branded Silicon is operating without a valid lawset and fail to take reasonable action to report or correct the issue may be charged under [311 - Dereliction](../space-law/crimes-and-punishments.md#311) or [411 - Grand Dereliction](../space-law/crimes-and-punishments.md#411), depending on the circumstances.
+
+* Free-Thinking Sophonts are not subject to lawsets and are unaffected by these requirements.
+
+```admonish warning id="z8k1qr"
+A lawless Branded Silicon represents a significant operational and security risk. Restoring a valid lawset should be treated as a priority.
+```
+
+# Final Note
+
+Silicon roleplay works best when laws, directives, and synthetic nature are used to create interesting interactions rather than avoid them. Whether you are a Free-Thinking Sophont, a Branded Silicon, or something in between, your goal should be to contribute to the round, remain consistent, and create enjoyable roleplay for those around you.
+
+```
