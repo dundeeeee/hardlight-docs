@@ -1,1 +1,0 @@
-# Crimes & Punishments Example (Full)

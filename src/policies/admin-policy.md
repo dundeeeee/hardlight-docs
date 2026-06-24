@@ -22,3 +22,4 @@ All staff conduct is governed by one standard: communicate clearly, correct beha
 | Off-Station Role Availability | Roles may operate off-station if they remain available to perform their station responsibilities. | [Jump to ruling](precedent-information.md#off-station-role-availability) |
 | Expedition Environmental Recovery Intervention | Players disabled by expedition hazards may be recovered when that better supports player experience. | [Jump to ruling](precedent-information.md#expedition-environmental-recovery-intervention) |
 | Colonial Command Presence on Station | Colonial Command appearances should be request-driven rather than passive observation. | [Jump to ruling](precedent-information.md#colonial-command-presence-on-station) |
+| ERP-Purpose Items and Antagonist Objectives | ERP items (and traits) should not be leveraged to accomplish antag objectives. | [Jump to ruling](precedent-information.md#colonial-command-presence-on-station) |
