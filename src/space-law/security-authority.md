@@ -19,7 +19,7 @@ This authority extends to **all space within the station's operational sector** 
 
 **Exception — Colonial Command Territory:** Security does not exercise primary enforcement authority within Colonial Command's own territorial space. Security personnel may operate there only in exigent circumstances — specifically, active pursuit of a fleeing suspect, or situations requiring immediate action to prevent serious harm — and must defer to Colonial Command's authority upon contact.
 
-## Officer Discretion
+### Officer Discretion
 
 Members of the Security Department are permitted to exercise professional discretion when handling criminal offenses. Security personnel are not expected to be unthinking enforcement automatons; instead, they should evaluate the context of a situation to determine if a formal arrest, a warning, or conditional leniency is most appropriate. Officers may choose not to act upon or formally charge a minor offense if they can articulate a reasonable, common sense justification for doing so.
 
