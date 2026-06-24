@@ -31,8 +31,8 @@
     - [Medical](departments/medical.md)
 ---
 # PSIONICS
-- [Psionic Policy](psionic-policy/psionicpolicy.md)
-- [Mindbreak Policy](mindbreak-policy/mindbreak.md)
+- [Psionic Policy](psionics/psionicpolicy.md)
+- [Mindbreak Policy](psionics/mindbreak.md)
 ---
 # SILICON
 - [Silicon Definition](silicon-definition/silicondefinition.md)
