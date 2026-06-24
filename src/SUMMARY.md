@@ -35,8 +35,8 @@
 - [Mindbreak Policy](psionics/mindbreak.md)
 ---
 # SILICON
-- [Silicon Definition](silicon-definition/silicondefinition.md)
-- [Silicon Policy](silicon-policy/siliconpolicy.md)
+- [Silicon Definition](silicon/silicondefinition.md)
+- [Silicon Policy](silicon/siliconpolicy.md)
 ---
 # SECURITY
 
