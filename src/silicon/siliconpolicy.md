@@ -16,6 +16,13 @@
 Silicons are characters first and machines second. Your goal is to create interesting roleplay and interactions, not to use your mechanical nature as an excuse to avoid them.
 ```
 
+```admonish warning
+Cyborgs are not eligible to hold, assume, or be promoted into Command positions.
+
+Crew members who are converted into a cyborg through MMI transfer, positronic transfer, or similar procedures immediately become ineligible to serve in Command, regardless of whether they are classified as a Branded Silicon or a Free-Thinking Sophont.
+```
+
+
 # General Expectations
 
 * Server rules apply to silicons exactly as they do to any other character.

@@ -2,6 +2,11 @@
 
 This changelog is a running history for the documentation set.
 
+```admonish note title="June 28, 2026 (Revision 6.1)
+- Updated Silicon Definition page to include Freelancer Cyborgs under Free Thinking Sophonts.
+- Updated Silicon Policy page to indicate new ruling regarding Cyborgs in command roles.
+```
+
 ```admonish note title="June 23, 2026 (Revision 6)"
 - General formatting of overall structure adjusted to be more conforming.
 - Created Command Policy, as well as detailed policies per command member.

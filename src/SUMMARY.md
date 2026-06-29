@@ -8,6 +8,7 @@
 - [Server Rules](rules/server-rules.md)
 	- [Escalation Policy](space-law/escalation.md)
 	- [Antag Policy](rules/antagpolicy.md)
+	- [Faction Policy](rules/factionpolicy.md)
 - [Conduct & Expectations](rules/conduct.md)
   - [Roleplay Expectations](rules/roleplay.md)
 

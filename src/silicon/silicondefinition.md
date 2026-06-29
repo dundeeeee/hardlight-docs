@@ -16,7 +16,7 @@
 ```admonish note
 For simplicity, any Cyborg that loads in as a station role, such as Station AI, standard Cyborgs, or departmental Quadborgs, is considered a **Branded Silicon**.
 
-Any cyborg that exists independently of Colonial Command, including Patreon-specific cyborg characters (if they decide), cyborgs owned or constructed by Freelancers, private individuals, or other non-Colonial Command entities, is generally considered an **Unbranded Cyborg** and therefore a **Free-Thinking Sophont (FTS)**.
+Any cyborg that exists independently of Colonial Command, including Patreon-specific cyborg characters (if they decide), cyborgs owned or constructed by Freelancers, or Freelancer Cyborgs are generally considered an **Unbranded Cyborg** and therefore a **Free-Thinking Sophont (FTS)**.
 
 Cyborgs constructed, commissioned, or converted by station personnel during a round are not considered Free-Thinking Sophonts by default and are generally classified as Branded Silicons unless otherwise specified by administration or server lore.
 
